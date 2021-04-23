@@ -1,6 +1,6 @@
 # Slightly Wider JS editor
 
-## Make FormStack Javascript Editor a little wider
+## Make FormStack JavaScript Editor a little wider
 (Chrome only)
 
 
