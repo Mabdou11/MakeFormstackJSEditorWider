@@ -5,10 +5,9 @@
   "content_scripts": [
   {
     "matches": [
-    "*.lightning.force.com/*"
+    "https://*.lightning.force.com/*"
       ],  
-    "js": [
-           "content.js"]
+    "js": ["content.js"]
   }
 ]
 }
