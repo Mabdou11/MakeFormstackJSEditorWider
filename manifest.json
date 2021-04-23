@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Slightly Wider JS editor",
+  "version": "0.2",
+  "content_scripts": [
+  {
+    "matches": [
+    "*.lightning.force.com/*"
+      ],  
+    "js": [
+           "content.js"]
+  }
+]
+}
