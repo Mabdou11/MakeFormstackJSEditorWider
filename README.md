@@ -2,13 +2,12 @@
 
 ## Make FormStack JavaScript Editor a little wider
 (Chrome only)
-
+- NOT WORKING T_T -
 
 Height didn't work, didn't want to bother too much with it.
 
 Width is still limited by the parent's padding.
 
-Have a nice day!
 
 
 ### Installation
