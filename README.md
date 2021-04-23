@@ -15,5 +15,5 @@ Have a nice day!
 - Go to: chrome://extensions/
 - Activate developper mode
 - Click on LOAD UNPACKED
-- Go to the cloned/downloaded repository
+- Go to the cloned or downloaded repository (this one)
 - click SELECT
