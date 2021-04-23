@@ -5,7 +5,7 @@
   "content_scripts": [
   {
     "matches": [
-    "https://*.lightning.force.com/*"
+    "https://*.force.com/lightning/n/VisualAntidote__FastForms*"
       ],  
     "js": ["content.js"]
   }
