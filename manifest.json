@@ -2,12 +2,13 @@
   "manifest_version": 2,
   "name": "Slightly Wider JS editor",
   "version": "0.2",
-  "content_scripts": [
-  {
-    "matches": [
-    "https://*.force.com/lightning/n/VisualAntidote__FastForms*"
-      ],  
-    "js": ["content.js"]
-  }
-]
+  "description": "makes the js editor a little wider on formstack",
+  "background" : {
+    "scripts" : ["background.js"]
+  },
+  "browser_action": {
+    "default_icon": "logo.png"
+
+  },
+  "permissions": ["https://*.force.com/lightning/n/VisualAntidote__FastForms*"]
 }

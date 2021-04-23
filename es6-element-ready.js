@@ -8,7 +8,7 @@
  * @param selector
  * @returns {Promise}
  */
-export function elementReady(selector) {
+function elementReady(selector) {
   return new Promise((resolve, reject) => {
     let el = document.querySelector(selector);
     if (el) {resolve(el);}
